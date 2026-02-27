@@ -12,7 +12,7 @@ const materials = [
         desc: "Commonly used for banners, outdoor advertisements, and illuminated displays."
     },
     {
-        title: "Cloth Prints (White & Black)",
+        title: "Cloth Prints",
         img: "images/product_3.jpg",
         desc: "Soft signage, exhibitions, backdrops, and décor applications."
     },
